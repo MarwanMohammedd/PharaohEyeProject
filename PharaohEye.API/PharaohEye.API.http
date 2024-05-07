@@ -1,0 +1,6 @@
+@PharaohEye.API_HostAddress = http://localhost:5173
+
+GET {{PharaohEye.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
